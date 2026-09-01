@@ -1,0 +1,298 @@
+game_id,date,home_team,away_team,home_odds,away_odds
+CURR_BL_01,2026-09-04,VfB Stuttgart,1. FC Köln,2.0,2.0
+CURR_BL_02,2026-09-05,SV Werder Bremen,RB Leipzig,2.0,2.0
+CURR_BL_03,2026-09-05,TSG 1899 Hoffenheim,Borussia Dortmund,2.0,2.0
+CURR_BL_04,2026-09-05,Bayer 04 Leverkusen,1. FC Union Berlin,2.0,2.0
+CURR_BL_05,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,2.0,2.0
+CURR_BL_06,2026-09-05,SC Paderborn 07,SC Freiburg,2.0,2.0
+CURR_BL_07,2026-09-05,FC Schalke 04,FC Bayern München,2.0,2.0
+CURR_BL_08,2026-09-06,Hamburger SV,1. FSV Mainz 05,2.0,2.0
+CURR_BL_09,2026-09-06,Eintracht Frankfurt,FC Augsburg,2.0,2.0
+CURR_BL_10,2026-09-11,1. FC Union Berlin,FC Schalke 04,2.0,2.0
+CURR_BL_11,2026-09-12,TSG 1899 Hoffenheim,VfB Stuttgart,2.0,2.0
+CURR_BL_12,2026-09-12,Borussia Dortmund,SC Paderborn 07,2.0,2.0
+CURR_BL_13,2026-09-12,FC Augsburg,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_14,2026-09-12,1. FSV Mainz 05,Eintracht Frankfurt,2.0,2.0
+CURR_BL_15,2026-09-12,SC Freiburg,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_16,2026-09-12,1. FC Köln,SV Werder Bremen,2.0,2.0
+CURR_BL_17,2026-09-13,RB Leipzig,Hamburger SV,2.0,2.0
+CURR_BL_18,2026-09-13,SV 07 Elversberg,FC Bayern München,2.0,2.0
+CURR_BL_19,2026-09-18,FC Bayern München,1. FC Union Berlin,2.0,2.0
+CURR_BL_20,2026-09-19,Hamburger SV,1. FC Köln,2.0,2.0
+CURR_BL_21,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,2.0,2.0
+CURR_BL_22,2026-09-19,SV Werder Bremen,FC Augsburg,2.0,2.0
+CURR_BL_23,2026-09-19,Eintracht Frankfurt,SC Freiburg,2.0,2.0
+CURR_BL_24,2026-09-19,VfB Stuttgart,Borussia Dortmund,2.0,2.0
+CURR_BL_25,2026-09-20,Bayer 04 Leverkusen,RB Leipzig,2.0,2.0
+CURR_BL_26,2026-09-20,FC Schalke 04,SV 07 Elversberg,2.0,2.0
+CURR_BL_27,2026-09-20,SC Paderborn 07,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_28,2026-10-10,1. FSV Mainz 05,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_29,2026-10-10,SC Paderborn 07,VfB Stuttgart,2.0,2.0
+CURR_BL_30,2026-10-10,1. FC Köln,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_31,2026-10-10,RB Leipzig,Eintracht Frankfurt,2.0,2.0
+CURR_BL_32,2026-10-10,SC Freiburg,FC Schalke 04,2.0,2.0
+CURR_BL_33,2026-10-10,1. FC Union Berlin,SV 07 Elversberg,2.0,2.0
+CURR_BL_34,2026-10-10,TSG 1899 Hoffenheim,Hamburger SV,2.0,2.0
+CURR_BL_35,2026-10-10,FC Augsburg,FC Bayern München,2.0,2.0
+CURR_BL_36,2026-10-10,Borussia Dortmund,SV Werder Bremen,2.0,2.0
+CURR_BL_37,2026-10-17,1. FC Union Berlin,Borussia Dortmund,2.0,2.0
+CURR_BL_38,2026-10-17,Hamburger SV,VfB Stuttgart,2.0,2.0
+CURR_BL_39,2026-10-17,SV Werder Bremen,SC Paderborn 07,2.0,2.0
+CURR_BL_40,2026-10-17,SV 07 Elversberg,FC Augsburg,2.0,2.0
+CURR_BL_41,2026-10-17,FC Bayern München,RB Leipzig,2.0,2.0
+CURR_BL_42,2026-10-17,Borussia Mönchengladbach,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_43,2026-10-17,Bayer 04 Leverkusen,SC Freiburg,2.0,2.0
+CURR_BL_44,2026-10-17,Eintracht Frankfurt,1. FC Köln,2.0,2.0
+CURR_BL_45,2026-10-17,FC Schalke 04,1. FSV Mainz 05,2.0,2.0
+CURR_BL_46,2026-10-24,1. FSV Mainz 05,SV Werder Bremen,2.0,2.0
+CURR_BL_47,2026-10-24,1. FC Köln,FC Schalke 04,2.0,2.0
+CURR_BL_48,2026-10-24,RB Leipzig,SV 07 Elversberg,2.0,2.0
+CURR_BL_49,2026-10-24,VfB Stuttgart,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_50,2026-10-24,SC Paderborn 07,Hamburger SV,2.0,2.0
+CURR_BL_51,2026-10-24,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_52,2026-10-24,SC Freiburg,FC Bayern München,2.0,2.0
+CURR_BL_53,2026-10-24,Borussia Dortmund,Eintracht Frankfurt,2.0,2.0
+CURR_BL_54,2026-10-24,FC Augsburg,1. FC Union Berlin,2.0,2.0
+CURR_BL_55,2026-10-31,Borussia Mönchengladbach,SC Paderborn 07,2.0,2.0
+CURR_BL_56,2026-10-31,FC Schalke 04,RB Leipzig,2.0,2.0
+CURR_BL_57,2026-10-31,1. FC Union Berlin,1. FC Köln,2.0,2.0
+CURR_BL_58,2026-10-31,FC Augsburg,SC Freiburg,2.0,2.0
+CURR_BL_59,2026-10-31,SV Werder Bremen,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_60,2026-10-31,Eintracht Frankfurt,Hamburger SV,2.0,2.0
+CURR_BL_61,2026-10-31,FC Bayern München,Borussia Dortmund,2.0,2.0
+CURR_BL_62,2026-10-31,SV 07 Elversberg,1. FSV Mainz 05,2.0,2.0
+CURR_BL_63,2026-10-31,Bayer 04 Leverkusen,VfB Stuttgart,2.0,2.0
+CURR_BL_64,2026-11-07,RB Leipzig,FC Augsburg,2.0,2.0
+CURR_BL_65,2026-11-07,VfB Stuttgart,SV Werder Bremen,2.0,2.0
+CURR_BL_66,2026-11-07,Borussia Dortmund,SV 07 Elversberg,2.0,2.0
+CURR_BL_67,2026-11-07,1. FSV Mainz 05,FC Bayern München,2.0,2.0
+CURR_BL_68,2026-11-07,Hamburger SV,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_69,2026-11-07,SC Paderborn 07,Eintracht Frankfurt,2.0,2.0
+CURR_BL_70,2026-11-07,SC Freiburg,1. FC Union Berlin,2.0,2.0
+CURR_BL_71,2026-11-07,1. FC Köln,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_72,2026-11-07,TSG 1899 Hoffenheim,FC Schalke 04,2.0,2.0
+CURR_BL_73,2026-11-21,Bayer 04 Leverkusen,SC Paderborn 07,2.0,2.0
+CURR_BL_74,2026-11-21,1. FC Union Berlin,RB Leipzig,2.0,2.0
+CURR_BL_75,2026-11-21,FC Bayern München,1. FC Köln,2.0,2.0
+CURR_BL_76,2026-11-21,SV 07 Elversberg,SC Freiburg,2.0,2.0
+CURR_BL_77,2026-11-21,FC Schalke 04,VfB Stuttgart,2.0,2.0
+CURR_BL_78,2026-11-21,Borussia Mönchengladbach,Borussia Dortmund,2.0,2.0
+CURR_BL_79,2026-11-21,SV Werder Bremen,Hamburger SV,2.0,2.0
+CURR_BL_80,2026-11-21,FC Augsburg,1. FSV Mainz 05,2.0,2.0
+CURR_BL_81,2026-11-21,Eintracht Frankfurt,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_82,2026-11-28,1. FC Köln,SV 07 Elversberg,2.0,2.0
+CURR_BL_83,2026-11-28,1. FSV Mainz 05,1. FC Union Berlin,2.0,2.0
+CURR_BL_84,2026-11-28,SC Paderborn 07,FC Schalke 04,2.0,2.0
+CURR_BL_85,2026-11-28,SV Werder Bremen,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_86,2026-11-28,VfB Stuttgart,Eintracht Frankfurt,2.0,2.0
+CURR_BL_87,2026-11-28,TSG 1899 Hoffenheim,FC Augsburg,2.0,2.0
+CURR_BL_88,2026-11-28,Borussia Dortmund,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_89,2026-11-28,SC Freiburg,RB Leipzig,2.0,2.0
+CURR_BL_90,2026-11-28,Hamburger SV,FC Bayern München,2.0,2.0
+CURR_BL_91,2026-12-05,1. FC Union Berlin,Hamburger SV,2.0,2.0
+CURR_BL_92,2026-12-05,FC Schalke 04,Borussia Dortmund,2.0,2.0
+CURR_BL_93,2026-12-05,Bayer 04 Leverkusen,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_94,2026-12-05,Eintracht Frankfurt,SV Werder Bremen,2.0,2.0
+CURR_BL_95,2026-12-05,RB Leipzig,1. FSV Mainz 05,2.0,2.0
+CURR_BL_96,2026-12-05,SV 07 Elversberg,VfB Stuttgart,2.0,2.0
+CURR_BL_97,2026-12-05,SC Freiburg,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_98,2026-12-05,FC Bayern München,SC Paderborn 07,2.0,2.0
+CURR_BL_99,2026-12-05,FC Augsburg,1. FC Köln,2.0,2.0
+CURR_BL_100,2026-12-12,SC Paderborn 07,SV 07 Elversberg,2.0,2.0
+CURR_BL_101,2026-12-12,SV Werder Bremen,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_102,2026-12-12,VfB Stuttgart,1. FC Union Berlin,2.0,2.0
+CURR_BL_103,2026-12-12,Borussia Dortmund,FC Augsburg,2.0,2.0
+CURR_BL_104,2026-12-12,Hamburger SV,FC Schalke 04,2.0,2.0
+CURR_BL_105,2026-12-12,1. FSV Mainz 05,SC Freiburg,2.0,2.0
+CURR_BL_106,2026-12-12,1. FC Köln,RB Leipzig,2.0,2.0
+CURR_BL_107,2026-12-12,TSG 1899 Hoffenheim,FC Bayern München,2.0,2.0
+CURR_BL_108,2026-12-12,Borussia Mönchengladbach,Eintracht Frankfurt,2.0,2.0
+CURR_BL_109,2026-12-19,FC Schalke 04,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_110,2026-12-19,FC Bayern München,SV Werder Bremen,2.0,2.0
+CURR_BL_111,2026-12-19,SV 07 Elversberg,Hamburger SV,2.0,2.0
+CURR_BL_112,2026-12-19,Bayer 04 Leverkusen,Eintracht Frankfurt,2.0,2.0
+CURR_BL_113,2026-12-19,SC Freiburg,VfB Stuttgart,2.0,2.0
+CURR_BL_114,2026-12-19,RB Leipzig,Borussia Dortmund,2.0,2.0
+CURR_BL_115,2026-12-19,1. FSV Mainz 05,1. FC Köln,2.0,2.0
+CURR_BL_116,2026-12-19,1. FC Union Berlin,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_117,2026-12-19,FC Augsburg,SC Paderborn 07,2.0,2.0
+CURR_BL_118,2027-01-09,VfB Stuttgart,FC Augsburg,2.0,2.0
+CURR_BL_119,2027-01-09,Hamburger SV,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_120,2027-01-09,1. FC Köln,SC Freiburg,2.0,2.0
+CURR_BL_121,2027-01-09,Eintracht Frankfurt,FC Schalke 04,2.0,2.0
+CURR_BL_122,2027-01-09,TSG 1899 Hoffenheim,SV 07 Elversberg,2.0,2.0
+CURR_BL_123,2027-01-09,Borussia Mönchengladbach,FC Bayern München,2.0,2.0
+CURR_BL_124,2027-01-09,Borussia Dortmund,1. FSV Mainz 05,2.0,2.0
+CURR_BL_125,2027-01-09,SV Werder Bremen,1. FC Union Berlin,2.0,2.0
+CURR_BL_126,2027-01-09,SC Paderborn 07,RB Leipzig,2.0,2.0
+CURR_BL_127,2027-01-13,1. FSV Mainz 05,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_128,2027-01-13,SC Freiburg,Hamburger SV,2.0,2.0
+CURR_BL_129,2027-01-13,FC Schalke 04,SV Werder Bremen,2.0,2.0
+CURR_BL_130,2027-01-13,RB Leipzig,VfB Stuttgart,2.0,2.0
+CURR_BL_131,2027-01-13,1. FC Union Berlin,SC Paderborn 07,2.0,2.0
+CURR_BL_132,2027-01-13,FC Bayern München,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_133,2027-01-13,FC Augsburg,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_134,2027-01-13,SV 07 Elversberg,Eintracht Frankfurt,2.0,2.0
+CURR_BL_135,2027-01-13,1. FC Köln,Borussia Dortmund,2.0,2.0
+CURR_BL_136,2027-01-16,SV Werder Bremen,SV 07 Elversberg,2.0,2.0
+CURR_BL_137,2027-01-16,Eintracht Frankfurt,FC Bayern München,2.0,2.0
+CURR_BL_138,2027-01-16,SC Paderborn 07,1. FC Köln,2.0,2.0
+CURR_BL_139,2027-01-16,TSG 1899 Hoffenheim,RB Leipzig,2.0,2.0
+CURR_BL_140,2027-01-16,Bayer 04 Leverkusen,FC Schalke 04,2.0,2.0
+CURR_BL_141,2027-01-16,VfB Stuttgart,1. FSV Mainz 05,2.0,2.0
+CURR_BL_142,2027-01-16,Hamburger SV,FC Augsburg,2.0,2.0
+CURR_BL_143,2027-01-16,Borussia Mönchengladbach,1. FC Union Berlin,2.0,2.0
+CURR_BL_144,2027-01-16,Borussia Dortmund,SC Freiburg,2.0,2.0
+CURR_BL_145,2027-01-23,SV Werder Bremen,SC Freiburg,2.0,2.0
+CURR_BL_146,2027-01-23,Hamburger SV,Borussia Dortmund,2.0,2.0
+CURR_BL_147,2027-01-23,SC Paderborn 07,1. FSV Mainz 05,2.0,2.0
+CURR_BL_148,2027-01-23,FC Schalke 04,FC Augsburg,2.0,2.0
+CURR_BL_149,2027-01-23,TSG 1899 Hoffenheim,1. FC Köln,2.0,2.0
+CURR_BL_150,2027-01-23,VfB Stuttgart,FC Bayern München,2.0,2.0
+CURR_BL_151,2027-01-23,Borussia Mönchengladbach,RB Leipzig,2.0,2.0
+CURR_BL_152,2027-01-23,Eintracht Frankfurt,1. FC Union Berlin,2.0,2.0
+CURR_BL_153,2027-01-23,Bayer 04 Leverkusen,SV 07 Elversberg,2.0,2.0
+CURR_BL_154,2027-01-30,SV 07 Elversberg,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_155,2027-01-30,FC Augsburg,Eintracht Frankfurt,2.0,2.0
+CURR_BL_156,2027-01-30,1. FSV Mainz 05,Hamburger SV,2.0,2.0
+CURR_BL_157,2027-01-30,RB Leipzig,SV Werder Bremen,2.0,2.0
+CURR_BL_158,2027-01-30,1. FC Köln,VfB Stuttgart,2.0,2.0
+CURR_BL_159,2027-01-30,1. FC Union Berlin,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_160,2027-01-30,SC Freiburg,SC Paderborn 07,2.0,2.0
+CURR_BL_161,2027-01-30,Borussia Dortmund,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_162,2027-01-30,FC Bayern München,FC Schalke 04,2.0,2.0
+CURR_BL_163,2027-02-06,Eintracht Frankfurt,1. FSV Mainz 05,2.0,2.0
+CURR_BL_164,2027-02-06,Borussia Mönchengladbach,SC Freiburg,2.0,2.0
+CURR_BL_165,2027-02-06,FC Schalke 04,1. FC Union Berlin,2.0,2.0
+CURR_BL_166,2027-02-06,Hamburger SV,RB Leipzig,2.0,2.0
+CURR_BL_167,2027-02-06,Bayer 04 Leverkusen,FC Augsburg,2.0,2.0
+CURR_BL_168,2027-02-06,SV Werder Bremen,1. FC Köln,2.0,2.0
+CURR_BL_169,2027-02-06,VfB Stuttgart,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_170,2027-02-06,FC Bayern München,SV 07 Elversberg,2.0,2.0
+CURR_BL_171,2027-02-06,SC Paderborn 07,Borussia Dortmund,2.0,2.0
+CURR_BL_172,2027-02-13,1. FC Köln,Hamburger SV,2.0,2.0
+CURR_BL_173,2027-02-13,1. FSV Mainz 05,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_174,2027-02-13,1. FC Union Berlin,FC Bayern München,2.0,2.0
+CURR_BL_175,2027-02-13,SV 07 Elversberg,FC Schalke 04,2.0,2.0
+CURR_BL_176,2027-02-13,Borussia Dortmund,VfB Stuttgart,2.0,2.0
+CURR_BL_177,2027-02-13,TSG 1899 Hoffenheim,SC Paderborn 07,2.0,2.0
+CURR_BL_178,2027-02-13,SC Freiburg,Eintracht Frankfurt,2.0,2.0
+CURR_BL_179,2027-02-13,FC Augsburg,SV Werder Bremen,2.0,2.0
+CURR_BL_180,2027-02-13,RB Leipzig,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_181,2027-02-20,FC Schalke 04,SC Freiburg,2.0,2.0
+CURR_BL_182,2027-02-20,VfB Stuttgart,SC Paderborn 07,2.0,2.0
+CURR_BL_183,2027-02-20,Borussia Mönchengladbach,1. FC Köln,2.0,2.0
+CURR_BL_184,2027-02-20,SV Werder Bremen,Borussia Dortmund,2.0,2.0
+CURR_BL_185,2027-02-20,Hamburger SV,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_186,2027-02-20,Bayer 04 Leverkusen,1. FSV Mainz 05,2.0,2.0
+CURR_BL_187,2027-02-20,Eintracht Frankfurt,RB Leipzig,2.0,2.0
+CURR_BL_188,2027-02-20,FC Bayern München,FC Augsburg,2.0,2.0
+CURR_BL_189,2027-02-20,SV 07 Elversberg,1. FC Union Berlin,2.0,2.0
+CURR_BL_190,2027-02-27,VfB Stuttgart,Hamburger SV,2.0,2.0
+CURR_BL_191,2027-02-27,1. FC Köln,Eintracht Frankfurt,2.0,2.0
+CURR_BL_192,2027-02-27,SC Freiburg,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_193,2027-02-27,FC Augsburg,SV 07 Elversberg,2.0,2.0
+CURR_BL_194,2027-02-27,1. FSV Mainz 05,FC Schalke 04,2.0,2.0
+CURR_BL_195,2027-02-27,TSG 1899 Hoffenheim,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_196,2027-02-27,SC Paderborn 07,SV Werder Bremen,2.0,2.0
+CURR_BL_197,2027-02-27,RB Leipzig,FC Bayern München,2.0,2.0
+CURR_BL_198,2027-02-27,Borussia Dortmund,1. FC Union Berlin,2.0,2.0
+CURR_BL_199,2027-03-03,Eintracht Frankfurt,Borussia Dortmund,2.0,2.0
+CURR_BL_200,2027-03-03,FC Schalke 04,1. FC Köln,2.0,2.0
+CURR_BL_201,2027-03-03,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_202,2027-03-03,FC Bayern München,SC Freiburg,2.0,2.0
+CURR_BL_203,2027-03-03,SV Werder Bremen,1. FSV Mainz 05,2.0,2.0
+CURR_BL_204,2027-03-03,1. FC Union Berlin,FC Augsburg,2.0,2.0
+CURR_BL_205,2027-03-03,SV 07 Elversberg,RB Leipzig,2.0,2.0
+CURR_BL_206,2027-03-03,Borussia Mönchengladbach,VfB Stuttgart,2.0,2.0
+CURR_BL_207,2027-03-03,Hamburger SV,SC Paderborn 07,2.0,2.0
+CURR_BL_208,2027-03-06,Borussia Dortmund,FC Bayern München,2.0,2.0
+CURR_BL_209,2027-03-06,SC Freiburg,FC Augsburg,2.0,2.0
+CURR_BL_210,2027-03-06,1. FSV Mainz 05,SV 07 Elversberg,2.0,2.0
+CURR_BL_211,2027-03-06,Hamburger SV,Eintracht Frankfurt,2.0,2.0
+CURR_BL_212,2027-03-06,VfB Stuttgart,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_213,2027-03-06,RB Leipzig,FC Schalke 04,2.0,2.0
+CURR_BL_214,2027-03-06,SC Paderborn 07,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_215,2027-03-06,1. FC Köln,1. FC Union Berlin,2.0,2.0
+CURR_BL_216,2027-03-06,TSG 1899 Hoffenheim,SV Werder Bremen,2.0,2.0
+CURR_BL_217,2027-03-13,1. FC Union Berlin,SC Freiburg,2.0,2.0
+CURR_BL_218,2027-03-13,SV 07 Elversberg,Borussia Dortmund,2.0,2.0
+CURR_BL_219,2027-03-13,Eintracht Frankfurt,SC Paderborn 07,2.0,2.0
+CURR_BL_220,2027-03-13,FC Augsburg,RB Leipzig,2.0,2.0
+CURR_BL_221,2027-03-13,Borussia Mönchengladbach,Hamburger SV,2.0,2.0
+CURR_BL_222,2027-03-13,SV Werder Bremen,VfB Stuttgart,2.0,2.0
+CURR_BL_223,2027-03-13,FC Schalke 04,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_224,2027-03-13,FC Bayern München,1. FSV Mainz 05,2.0,2.0
+CURR_BL_225,2027-03-13,Bayer 04 Leverkusen,1. FC Köln,2.0,2.0
+CURR_BL_226,2027-03-20,1. FC Köln,FC Bayern München,2.0,2.0
+CURR_BL_227,2027-03-20,TSG 1899 Hoffenheim,Eintracht Frankfurt,2.0,2.0
+CURR_BL_228,2027-03-20,Borussia Dortmund,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_229,2027-03-20,1. FSV Mainz 05,FC Augsburg,2.0,2.0
+CURR_BL_230,2027-03-20,VfB Stuttgart,FC Schalke 04,2.0,2.0
+CURR_BL_231,2027-03-20,RB Leipzig,1. FC Union Berlin,2.0,2.0
+CURR_BL_232,2027-03-20,SC Freiburg,SV 07 Elversberg,2.0,2.0
+CURR_BL_233,2027-03-20,Hamburger SV,SV Werder Bremen,2.0,2.0
+CURR_BL_234,2027-03-20,SC Paderborn 07,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_235,2027-04-03,RB Leipzig,SC Freiburg,2.0,2.0
+CURR_BL_236,2027-04-03,SV 07 Elversberg,1. FC Köln,2.0,2.0
+CURR_BL_237,2027-04-03,FC Bayern München,Hamburger SV,2.0,2.0
+CURR_BL_238,2027-04-03,FC Augsburg,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_239,2027-04-03,Borussia Mönchengladbach,SV Werder Bremen,2.0,2.0
+CURR_BL_240,2027-04-03,Eintracht Frankfurt,VfB Stuttgart,2.0,2.0
+CURR_BL_241,2027-04-03,1. FC Union Berlin,1. FSV Mainz 05,2.0,2.0
+CURR_BL_242,2027-04-03,Bayer 04 Leverkusen,Borussia Dortmund,2.0,2.0
+CURR_BL_243,2027-04-03,FC Schalke 04,SC Paderborn 07,2.0,2.0
+CURR_BL_244,2027-04-10,VfB Stuttgart,SV 07 Elversberg,2.0,2.0
+CURR_BL_245,2027-04-10,SC Paderborn 07,FC Bayern München,2.0,2.0
+CURR_BL_246,2027-04-10,TSG 1899 Hoffenheim,SC Freiburg,2.0,2.0
+CURR_BL_247,2027-04-10,1. FSV Mainz 05,RB Leipzig,2.0,2.0
+CURR_BL_248,2027-04-10,SV Werder Bremen,Eintracht Frankfurt,2.0,2.0
+CURR_BL_249,2027-04-10,Borussia Dortmund,FC Schalke 04,2.0,2.0
+CURR_BL_250,2027-04-10,Hamburger SV,1. FC Union Berlin,2.0,2.0
+CURR_BL_251,2027-04-10,Borussia Mönchengladbach,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_252,2027-04-10,1. FC Köln,FC Augsburg,2.0,2.0
+CURR_BL_253,2027-04-17,Bayer 04 Leverkusen,SV Werder Bremen,2.0,2.0
+CURR_BL_254,2027-04-17,Eintracht Frankfurt,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_255,2027-04-17,1. FC Union Berlin,VfB Stuttgart,2.0,2.0
+CURR_BL_256,2027-04-17,FC Bayern München,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_257,2027-04-17,FC Schalke 04,Hamburger SV,2.0,2.0
+CURR_BL_258,2027-04-17,SV 07 Elversberg,SC Paderborn 07,2.0,2.0
+CURR_BL_259,2027-04-17,FC Augsburg,Borussia Dortmund,2.0,2.0
+CURR_BL_260,2027-04-17,SC Freiburg,1. FSV Mainz 05,2.0,2.0
+CURR_BL_261,2027-04-17,RB Leipzig,1. FC Köln,2.0,2.0
+CURR_BL_262,2027-04-24,SV Werder Bremen,FC Bayern München,2.0,2.0
+CURR_BL_263,2027-04-24,1. FC Köln,1. FSV Mainz 05,2.0,2.0
+CURR_BL_264,2027-04-24,Hamburger SV,SV 07 Elversberg,2.0,2.0
+CURR_BL_265,2027-04-24,Borussia Dortmund,RB Leipzig,2.0,2.0
+CURR_BL_266,2027-04-24,TSG 1899 Hoffenheim,1. FC Union Berlin,2.0,2.0
+CURR_BL_267,2027-04-24,SC Paderborn 07,FC Augsburg,2.0,2.0
+CURR_BL_268,2027-04-24,VfB Stuttgart,SC Freiburg,2.0,2.0
+CURR_BL_269,2027-04-24,Borussia Mönchengladbach,FC Schalke 04,2.0,2.0
+CURR_BL_270,2027-04-24,Eintracht Frankfurt,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_271,2027-05-08,FC Schalke 04,Eintracht Frankfurt,2.0,2.0
+CURR_BL_272,2027-05-08,RB Leipzig,SC Paderborn 07,2.0,2.0
+CURR_BL_273,2027-05-08,SC Freiburg,1. FC Köln,2.0,2.0
+CURR_BL_274,2027-05-08,1. FSV Mainz 05,Borussia Dortmund,2.0,2.0
+CURR_BL_275,2027-05-08,FC Augsburg,VfB Stuttgart,2.0,2.0
+CURR_BL_276,2027-05-08,1. FC Union Berlin,SV Werder Bremen,2.0,2.0
+CURR_BL_277,2027-05-08,SV 07 Elversberg,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_278,2027-05-08,Bayer 04 Leverkusen,Hamburger SV,2.0,2.0
+CURR_BL_279,2027-05-08,FC Bayern München,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_280,2027-05-15,Eintracht Frankfurt,SV 07 Elversberg,2.0,2.0
+CURR_BL_281,2027-05-15,SC Paderborn 07,1. FC Union Berlin,2.0,2.0
+CURR_BL_282,2027-05-15,VfB Stuttgart,RB Leipzig,2.0,2.0
+CURR_BL_283,2027-05-15,Borussia Dortmund,1. FC Köln,2.0,2.0
+CURR_BL_284,2027-05-15,Hamburger SV,SC Freiburg,2.0,2.0
+CURR_BL_285,2027-05-15,Bayer 04 Leverkusen,FC Bayern München,2.0,2.0
+CURR_BL_286,2027-05-15,SV Werder Bremen,FC Schalke 04,2.0,2.0
+CURR_BL_287,2027-05-15,Borussia Mönchengladbach,FC Augsburg,2.0,2.0
+CURR_BL_288,2027-05-15,TSG 1899 Hoffenheim,1. FSV Mainz 05,2.0,2.0
+CURR_BL_289,2027-05-22,RB Leipzig,TSG 1899 Hoffenheim,2.0,2.0
+CURR_BL_290,2027-05-22,1. FC Union Berlin,Borussia Mönchengladbach,2.0,2.0
+CURR_BL_291,2027-05-22,1. FSV Mainz 05,VfB Stuttgart,2.0,2.0
+CURR_BL_292,2027-05-22,FC Schalke 04,Bayer 04 Leverkusen,2.0,2.0
+CURR_BL_293,2027-05-22,SV 07 Elversberg,SV Werder Bremen,2.0,2.0
+CURR_BL_294,2027-05-22,FC Bayern München,Eintracht Frankfurt,2.0,2.0
+CURR_BL_295,2027-05-22,FC Augsburg,Hamburger SV,2.0,2.0
+CURR_BL_296,2027-05-22,SC Freiburg,Borussia Dortmund,2.0,2.0
+CURR_BL_297,2027-05-22,1. FC Köln,SC Paderborn 07,2.0,2.0

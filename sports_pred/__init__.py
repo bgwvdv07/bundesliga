@@ -1,0 +1,1 @@
+# Sports prediction Django project

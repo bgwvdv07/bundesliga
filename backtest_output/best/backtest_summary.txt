@@ -1,0 +1,10 @@
+Thresholds: prob=0.55, margin=0.10
+Seasons: ['2019/20', '2020/21', '2021/22', '2022/23', '2023/24', '2024/25', '2025/26']
+
+Overall accuracy: 0.527
+Overall log_loss: 1.636
+
+Definite winner count: 30
+Definite winner hit rate: 0.833
+Definite winner avg odds: 1.51
+Definite winner net profit: 15.45

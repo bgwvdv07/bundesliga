@@ -29,10 +29,15 @@ def predictions_html(request):
             "home_odds": p.game.home_odds,
             "away_odds": p.game.away_odds,
             "home_win_prob": p.home_win_prob,
+            "draw_prob": p.draw_prob,
             "away_win_prob": p.away_win_prob,
+            "likely_winner": p.likely_winner,
+            "definite_winner": p.definite_winner,
             "home_implied_prob": p.home_implied_prob,
+            "draw_implied_prob": p.draw_implied_prob,
             "away_implied_prob": p.away_implied_prob,
             "home_edge": p.home_edge,
+            "draw_edge": p.draw_edge,
             "away_edge": p.away_edge,
         })
 
@@ -51,6 +56,7 @@ def predictions_html(request):
         a { text-decoration: none; color: #0066cc; }
         .pos { color: #008800; font-weight: bold; }
         .neg { color: #cc0000; }
+        .def { color: #0066cc; font-weight: bold; }
       </style>
     </head>
     <body>
@@ -69,10 +75,15 @@ def predictions_html(request):
             <th>Home odds</th>
             <th>Away odds</th>
             <th>Home prob</th>
+            <th>Draw prob</th>
             <th>Away prob</th>
+            <th>Likely winner</th>
+            <th>Definite winner</th>
             <th>Home implied</th>
+            <th>Draw implied</th>
             <th>Away implied</th>
             <th>Home edge</th>
+            <th>Draw edge</th>
             <th>Away edge</th>
           </tr>
         </thead>
@@ -82,6 +93,9 @@ def predictions_html(request):
     for r in rows:
         home_edge_cls = "pos" if (r["home_edge"] or 0) > 0 else "neg"
         away_edge_cls = "pos" if (r["away_edge"] or 0) > 0 else "neg"
+        draw_edge_cls = "pos" if (r["draw_edge"] or 0) > 0 else "neg"
+
+        definite_cls = "def" if r["definite_winner"] else ""
 
         html += "<tr>"
         html += f"<td>{r['date']}</td>"
@@ -89,10 +103,15 @@ def predictions_html(request):
         html += f"<td>{r['home_odds']}</td>"
         html += f"<td>{r['away_odds']}</td>"
         html += f"<td>{fmt3(r['home_win_prob'])}</td>"
+        html += f"<td>{fmt3(r['draw_prob'])}</td>"
         html += f"<td>{fmt3(r['away_win_prob'])}</td>"
+        html += f"<td>{r['likely_winner'] or 'n/a'}</td>"
+        html += f"<td class='{definite_cls}'>{r['definite_winner'] or 'n/a'}</td>"
         html += f"<td>{fmt3(r['home_implied_prob'])}</td>"
+        html += f"<td>{fmt3(r['draw_implied_prob'])}</td>"
         html += f"<td>{fmt3(r['away_implied_prob'])}</td>"
         html += f"<td class='{home_edge_cls}'>{fmt3(r['home_edge'])}</td>"
+        html += f"<td class='{draw_edge_cls}'>{fmt3(r['draw_edge'])}</td>"
         html += f"<td class='{away_edge_cls}'>{fmt3(r['away_edge'])}</td>"
         html += "</tr>"
 
@@ -103,7 +122,6 @@ def predictions_html(request):
     </html>
     """
 
-    # Simple string replace for sort_by (avoiding Django template engine here)
     html = html.replace("{{ sort_by }}", sort_by)
 
     return HttpResponse(html)

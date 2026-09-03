@@ -27,17 +27,24 @@ class Prediction(models.Model):
         Game, on_delete=models.CASCADE, related_name="prediction"
     )
     home_win_prob = models.FloatField()
+    draw_prob = models.FloatField(null=True, blank=True)
     away_win_prob = models.FloatField()
 
-    model_version = models.CharField(max_length=64, default="logreg_odds_v1")
+    model_version = models.CharField(max_length=64, default="gbc_3class_v1")
 
     # Market-implied probabilities
     home_implied_prob = models.FloatField(null=True, blank=True)
+    draw_implied_prob = models.FloatField(null=True, blank=True)
     away_implied_prob = models.FloatField(null=True, blank=True)
 
     # Edge = model - implied
     home_edge = models.FloatField(null=True, blank=True)
+    draw_edge = models.FloatField(null=True, blank=True)
     away_edge = models.FloatField(null=True, blank=True)
+
+    # Derived indicators
+    likely_winner = models.CharField(max_length=16, null=True, blank=True)  # "home", "draw", "away"
+    definite_winner = models.CharField(max_length=16, null=True, blank=True)  # "home", "away", or None
 
     created_at = models.DateTimeField(auto_now_add=True)
 
